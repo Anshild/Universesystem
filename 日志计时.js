@@ -5,7 +5,7 @@
 // @description .log end（无名称）直接删除当前正在计时的记录 + 严格群隔离
 // @timestamp 1743750000
 // @license Apache-2
-// @homepageURL 占位
+// @homepageURL https://github.com/Anshild/Universesystem/edit/main/%E6%97%A5%E5%BF%97%E8%AE%A1%E6%97%B6.js
 // @sealVersion 1.4.5
 // ==/UserScript==
 
