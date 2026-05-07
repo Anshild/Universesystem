@@ -2,7 +2,7 @@
 // @name         help合并转发
 // @author       顾轩
 // @version      1.6.5
-// @description  help太多了干脆弄成合并转发。
+// @description  感谢grok老师的技术支持，总之是help太多了干脆弄成合并转发。
 // @timestamp    1777203605
 // @license     Apache-2
 // @homepageURL  https://github.com/Anshild/Universesystem/tree/main
@@ -12,12 +12,11 @@
 "use strict";
 
 if (!seal.ext.find('replyduochong')) {
-    var ext = seal.ext.new('replyduochong', 'YogSothoth', '1.6.5');
+    var ext = seal.ext.new('replyduochong', 'grok', '1.6.5');
     seal.ext.register(ext);
 
     seal.ext.registerStringConfig(ext, 'napcat_http_url', 'http://127.0.0.1:3000');
     seal.ext.registerStringConfig(ext, 'napcat_token', '');
-    seal.ext.registerIntConfig(ext, 'max_draw_count', 10);
 
     function extractQQ(platformId) {
         var m = String(platformId || '').match(/(\d+)/);
