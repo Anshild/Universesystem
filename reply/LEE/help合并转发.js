@@ -6,7 +6,7 @@
 // @timestamp    1777203605
 // @license     Apache-2
 // @homepageURL  https://github.com/Anshild/Universesystem/tree/main
-// @updateUrl  https://raw.githubusercontent.com/Anshild/Universesystem/refs/heads/main/reply/help%E5%90%88%E5%B9%B6%E8%BD%AC%E5%8F%91.js
+// @updateUrl  https://raw.githubusercontent.com/Anshild/Universesystem/refs/heads/main/reply/LEE/help%E5%90%88%E5%B9%B6%E8%BD%AC%E5%8F%91.js
 // ==/UserScript==
 
 "use strict";
