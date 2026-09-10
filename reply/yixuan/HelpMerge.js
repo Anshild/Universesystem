@@ -165,7 +165,7 @@ KOOK：https://www.kookapp.cn/app/oauth2/authorize?id=19242&permissions=60491980
 >>>当前支持规则：
 1.COC，DND指令去看手册：https://docs.sealdice.com/use/quick-start.html
 2.绿色三角洲、黑暗世界、暗影狂奔、WoD、双十字和共鸣性怪异规则：https://docs.sealdice.com/use/other_rules.html
-其余规则详情发送[.插件 规则]即可查看。
+其余规则详情发送[.插件 规则]（需要之前发送过一次[.插件]）即可查看。
 ——
 >>>规则辅助功能：
 □使用牌堆（.draw xxx）功能实现：
