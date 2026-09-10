@@ -139,7 +139,7 @@ if (!seal.ext.find('replyduochong')) {
         var rawContent = `mas：一个纯文字设（因为没固定形象就干脆不约稿了）的oc公骰，QQ平台需要注意的都放空间里面了，KOOK对机器人管理不严就没做要求。
 以及，QQ平台我会不时巡视账号，如果刚好有人在进行任何对骰子的侮辱性言论算你倒霉，恭喜喜提永久黑名单，被抓到的举报行为同理。刷屏，集骰，拉进非骰点需求群，禁言到用户群-群文件-解除黑名单收集表，填表留档，再犯一直封着吧。
 ——
-QQ：2997313361，479582565（备用号）
+QQ：1275227542，479582565（备用号）
 KOOK：https://www.kookapp.cn/app/oauth2/authorize?id=19242&permissions=604919808&client_id=JaSMa5SlJbQ551qQ&redirect_uri=&scope=bot
 ——
 [CQ:contact,type=group,id=491515206]
